@@ -1,2 +1,5 @@
 # Tes-seleksi-arkademy-kotlin-batch-1
-Repository ini digunakan untuk mengumpulkan jawaban tes 
+
+Disini saya menggunakan bahasa pemograman Javascript
+
+Untuk menjalankannya saya menggunakan Browser Console Chrome
